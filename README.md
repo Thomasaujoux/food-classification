@@ -1,4 +1,4 @@
-# Semi-automatic Multi-Class Classification of food offer in Oqali sectors and families for web-scraped data
+# Semi-automatic Cascade Multi-Class Classification of food offer in Oqali sectors and families for web-scraped data
 
 ## General Presentation
 
@@ -10,15 +10,15 @@ The initial planning did not include any hard deadlines, and left room for flexi
 - Study of Oqali and web-scraped data (Descriptive Statistics, Exploratory Data Analysis, NLP, ...),
 - feasibility study of the semi-automatic categorization algorithm,
 - implementation of the semi-automatic categorization algorithm (Multunomiale Naive Bayes, Logistic Regression, SVM Classifier, Random Forest, ...),
-- analysis of the results of the semi-automatic categorization algorithm and optimization (Imbalanced Data Set, Underfitting and Overfitting, ...).
+- analysis of the results of the semi-automatic categorization algorithm and optimization (Imbalanced Data Set, Underfitting and Overfitting, ...),
+- implementation of the semi-automatic categorisation algorithm,
+- analysis of the results of the semi-automatic categorisation algorithm and optimisation.
 
 The foreseeable difficulties were :
 - The classification will have to take many variables into account;
 - The nomenclature for this categorization is very extensive (over 600 families);
 - Quite few similar works;
-- Available data on ingredients are difficult to manipulate, as there are many instances
-many instances, and we sometimes find raw lists of a food's ingredients, sometimes
-sometimes undecomposed.
+- Available data on ingredients are difficult to manipulate, as there are many instances many instances, and we sometimes find raw lists of a food's ingredients, sometimes undecomposed.
 - ...
 
 ## Contributions
@@ -72,8 +72,10 @@ There are some solutions to reduce variance:
 
 The main goal of a classic Machine Learning project is to have low bias and variance.
 
-### Previous Project
 
+
+
+!!!!!!!!! Le reste à compléter à la fin !!!!!!!!!!
 
 ### Enhancement and Extension to Web-scrapping Data
 
