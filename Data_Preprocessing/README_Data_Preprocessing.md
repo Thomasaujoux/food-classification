@@ -37,5 +37,4 @@ Natural Language Processing (NLP) is a Data Science subfield that deals with tex
 - N-grams
 - Vectorization
 
-## II) Hierarchy
 

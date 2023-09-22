@@ -73,28 +73,3 @@ There are some solutions to reduce variance:
 The main goal of a classic Machine Learning project is to have low bias and variance.
 
 
-
-
-!!!!!!!!! Le reste à compléter à la fin !!!!!!!!!!
-
-### Enhancement and Extension to Web-scrapping Data
-
-- take different variables into account
-- Different data cleansing
-- New models adapted
-- Changes in NLP
-- less bias
-The Oqali data are conventional with particular rules and abbreviations, which will lead to models with low bias and variance (around 0.98 precision and 0.97 f1 score) but high bias and variance on new data that don't follow the same rules. Therefore, it is important to create a new convention on the data that can be applied across different websites, which will reduce bias but also variance.
-
-## Technical Specifications
-
-- don't care about time
-- don't care about the interpretation
-- ...
-
-## Taking a step back
-
-## Project hierarchy
-
-## Conclusion
-
