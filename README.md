@@ -45,7 +45,7 @@ Classification is a method for analyzing data by grouping data with the most sim
 
 What does Multi-Class Classification mean ? It is a special case when the target variable can take more than two values but just one at a time.
 
-To do this, we will use the Oqali data to train the model, then we will use this trained model on new data obtained from web-scraping of various famous French supermarkets such as: "Auchan, Franprix, etc ...
+To do this, we will use the Oqali data to train the model, then we will use this trained model on new data obtained from web-scraping of various famous French supermarkets ...
 
 To explain the improvements and transformations made during the course, we need to introduce two classic machine learning concepts: bias and variance.
 Bias is an error due to wrong assumptions about data whereas variance is linked to the sensitivity of variations and noise in the data.
